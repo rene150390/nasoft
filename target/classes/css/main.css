@@ -59,12 +59,12 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   width: 53px;
   height: 60px;
   float: left;
-  margin: 0 20px;
+  margin: 0 15px 0 20px;
 }
 /* line 57, main.scss */
 .box .gift .gift-content .text {
   float: left;
-  margin: 15px 0 0 15px;
+  margin: 15px 0 0 5px;
 }
 /* line 60, main.scss */
 .box .gift .gift-content .text h2 {

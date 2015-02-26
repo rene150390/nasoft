@@ -18,14 +18,14 @@
 					<div class="ico-gift"></div>
 					<div class="text">
 						<h2>
-							&iexcl;Tiene un regalo! 
-							<span>por asistir a nuestra expo</span>
+							&iexcl;Válido por un regalo! 
+							<!--  <span>por asistir a nuestra expo</span>-->
 						</h2>
 					</div>
 				</div>
 			</div>
 			<div class="form">
-				<p class="text-orange">Redima su regalo ingresando<br>los siguientes datos</p>
+				<p class="text-orange">Confirma la entrega de tu regalo ingresando los siguientes datos</p>
 				<form action="register" method="post" onsubmit="return validate(this);">
 					<p>
 						<input type="text" placeholder="Nombre completo" name="nombre">
@@ -38,8 +38,8 @@
 						<input type='submit' value='Registrar' id="registraBtn"/>
 					</p>
 					<p>
-						Te esperamos el 5 de Marzo<br>
-						Hyatt Regency Polanco 7:30pm Sal&oacute;n G
+						Te esperamos al cóctel y conferencia magistral<br>
+						el Jueves 05 de Marzo 7:30 pm Hyatt Regency Polanco Salón G.
 					</p>
 					<p>Tu regalo se activar&aacute; el d&iacute;a del evento</p>
 				</form>
